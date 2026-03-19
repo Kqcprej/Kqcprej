@@ -18,7 +18,7 @@ Moim celem jest zapewnianie **wydajnych, przejrzystych i bezawaryjnych rozwiąza
 
 ---
 
-## Doświadczenie w Minecraft
+## Doświadczenie w Discord i Minecraft
 
 Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjną na serwerach Minecraft oraz Discord:  
 
