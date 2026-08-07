@@ -24,8 +24,7 @@ Na co dzień prowadzę prace nad infrastrukturą techniczną oraz administracyjn
 
 * **Kraftersi.net** – Właściciel i zarządzanie infrastrukturą techniczną.
 * **Kqcprej.pl** - Właściciel i zarządzanie infrastrukturą techniczną.
-* **Borry Logistics** – Zarządzanie infrastrukturą techniczną.
-* **S4mecik Community** - Administracja i zarządzanie infrastrukturą techniczną.
+* **Dzcode.eu** - Właściciel i zarządzanie infrastrukturą techniczną.
 
 ---
 
