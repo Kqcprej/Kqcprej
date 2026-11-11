@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="Kqcprej — Developer • Discord • Minecraft • Infrastruktura" width="100%">
+<img src="header.png" alt="Kqcprej — Developer • Discord • Minecraft • Infrastruktura" width="100%">
 
 <br>
 
